@@ -1,0 +1,7 @@
+{
+  "node-module-intellisense.autoStripExtensions": [
+      ".js",
+      ".vue",
+      ".json"
+  ]
+}
